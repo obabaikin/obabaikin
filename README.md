@@ -3,12 +3,10 @@
 **DE:** Hallo! </br>
 Ich bin ein leidenschaftlicher Java-Entwickler mit Erfahrung in Spring Boot und Microservices.</br>
 Ich interessiere mich für Clean Code, Testgetriebenes Entwickeln (TDD) und Continuous Integration/Continuous Deployment (CI/CD).</br>
-📍 Mannheim, Deutschland
 
 **EN:** Hello! </br>
 I am a passionate Java developer with experience in Spring Boot and microservices.</br>
 I am interested in Clean Code, Test-Driven Development (TDD) and Continuous Integration/Continuous Deployment (CI/CD).</br>
-📍 Mannheim, Germany
 
 ## 🛠️ Technologiestack
 
