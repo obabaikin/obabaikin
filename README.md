@@ -32,6 +32,4 @@ I am interested in Clean Code, Test-Driven Development (TDD) and Continuous Inte
 ### [url-shortener](https://github.com/obabaikin/url-shortener)
 
 Ein einfaches URL-Kürzungs-Tool basierend auf Java & Spring Boot.  
-🔧 Technologien: Spring Boot, JPA, H2, REST.
-
-
+🔧 Technologien: **Spring Boot**, **Spring Data JPA**, **Redis**, **PostgreSQL**, **REST APIs**, **JUnit**.
